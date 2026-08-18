@@ -1,7 +1,0 @@
-PySide6>=6.9,<7
-websockets>=15,<16
-numpy>=2,<3
-sounddevice>=0.5,<1
-Pillow>=11,<12
-mss>=10,<11
-pyinstaller>=6,<7
